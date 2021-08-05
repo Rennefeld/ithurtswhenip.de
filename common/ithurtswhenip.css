@@ -1,0 +1,21 @@
+/*
+This file is released to the public domain.
+H4R1 - http://ithurtswhenip.de
+*/
+body {
+  color: #000000;
+  background-color: #FFFFFF;
+  /* margin: 0px 20px 0px 20px; */
+}
+
+h1.centered, h2.centered{
+	text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    font-weight: bold;
+}
